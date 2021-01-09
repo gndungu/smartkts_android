@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "23326125710",
+    "firebase_url": "https://android-monitor-2ca5a.firebaseio.com",
+    "project_id": "android-monitor-2ca5a",
+    "storage_bucket": "android-monitor-2ca5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23326125710:android:8178eb9b8a8fce491da3df",
+        "android_client_info": {
+          "package_name": "com.smarttickets.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23326125710-va4fnmu7rs8s29jdk781hh65553co279.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smarttickets.mobile",
+            "certificate_hash": "7dc30820ef97ca1a43b04dce81031094b09c1be3"
+          }
+        },
+        {
+          "client_id": "23326125710-uqbsbfqgbbh490uqocjqc86pjsmknpns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zKN33IU-lBKeChorqSYGRnRnPShGUSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23326125710-uqbsbfqgbbh490uqocjqc86pjsmknpns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23326125710:android:9884ec002025e2751da3df",
+        "android_client_info": {
+          "package_name": "ug.org.hamwe.digitallearningplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23326125710-vf0tbnkc1ah6daeg9gklfp88lv13lci4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.org.hamwe.digitallearningplatform",
+            "certificate_hash": "0726af7f1ad991c2b950a61de19c2e55e50a8cca"
+          }
+        },
+        {
+          "client_id": "23326125710-4gqkhrp0i0tosngclrqdaeo4nputb4t0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ug.org.hamwe.digitallearningplatform",
+            "certificate_hash": "1ceb575b631f1fc02ca38b691de6f8309c2980e7"
+          }
+        },
+        {
+          "client_id": "23326125710-uqbsbfqgbbh490uqocjqc86pjsmknpns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zKN33IU-lBKeChorqSYGRnRnPShGUSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23326125710-uqbsbfqgbbh490uqocjqc86pjsmknpns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

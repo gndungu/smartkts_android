@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.smarttickets.mobile.DashboardActivity">
+    <item
+        android:title="Menu"
+        android:icon="@drawable/abc_ic_menu_overflow_material"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/menuGetStarted"
+                android:title="Get Started" />
+            <item
+                android:id="@+id/menuPrivacy"
+                android:title="Privacy" />
+            <item
+                android:id="@+id/menuterms"
+                android:title="Terms and Conditions" />
+            <item
+                android:id="@+id/action_logout"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+</menu>
